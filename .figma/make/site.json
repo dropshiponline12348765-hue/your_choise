@@ -1,0 +1,10 @@
+{
+  "description": "This online clothing store offers a seamless shopping experience for hoodies and t-shirts, featuring easy navigation, a user-friendly cart, and contact support.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
